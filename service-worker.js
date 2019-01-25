@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d989d94a873c74b783bcc6c14f226439.js"
+  "/precache-manifest.88dd6e826ede47bc0057d6b47124de83.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "travel"});
